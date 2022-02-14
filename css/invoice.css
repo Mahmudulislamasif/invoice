@@ -1,0 +1,45 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.headings
+{
+    background-color: blue;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    font-size: 500;
+}
+.fa-solid
+{
+    color: rgb(251, 255, 255);
+    margin-right: 5px;
+}
+.info-headings
+{
+    color: rgb(245, 245, 245);
+    text-align: center;
+    padding: 10px;
+}
+.headings1
+{
+    border-bottom: 2px solid black;
+}
+.invoice-headings1
+{
+    background-color: aqua;
+    padding: 2rem;
+}
+.invoice-headings2
+{
+    background-color: rgb(137, 255, 156);
+    padding: 2rem;
+}
+.invoice-headings3
+{
+    background-color: rgb(151, 229, 229);
+    padding: 2rem;
+}
